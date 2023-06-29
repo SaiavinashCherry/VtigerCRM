@@ -18,6 +18,7 @@ public class First_Class {
 		driver.get("https://www.google.com");
 		driver.get("https://www.instagram.com");
 		driver.get("https://www.amazon.com");
+		driver.get("https://www..google.com have u use this anywhere")
 		
 		
 	}
